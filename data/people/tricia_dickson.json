@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tricia_dickson",
+  "name": "Tricia Dickson",
+  "external_ids": {
+    "wikidata": "Q7841108",
+    "imdb": "nm0225728"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

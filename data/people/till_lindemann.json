@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_till_lindemann",
+  "name": "Till Lindemann",
+  "external_ids": {
+    "wikidata": "Q154852",
+    "imdb": "nm0511570"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

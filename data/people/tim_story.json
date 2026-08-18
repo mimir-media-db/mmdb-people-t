@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_story",
+  "name": "Tim Story",
+  "external_ids": {
+    "wikidata": "Q2005037",
+    "imdb": "nm1103162"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

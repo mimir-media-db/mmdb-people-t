@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_treach",
+  "name": "Treach",
+  "external_ids": {
+    "wikidata": "Q542910",
+    "imdb": "nm0188025"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

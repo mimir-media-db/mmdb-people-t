@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_post",
+  "name": "Tim Post",
+  "external_ids": {
+    "wikidata": "Q42418317",
+    "imdb": "nm0692874"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_todd_black",
+  "name": "Todd Black",
+  "external_ids": {
+    "wikidata": "Q28492396",
+    "imdb": "nm0085542"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

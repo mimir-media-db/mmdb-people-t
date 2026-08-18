@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tosca_daquino",
+  "name": "Tosca D'Aquino",
+  "external_ids": {
+    "wikidata": "Q509366",
+    "imdb": "nm0195388"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}
