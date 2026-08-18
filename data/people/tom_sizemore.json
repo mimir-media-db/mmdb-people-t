@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_sizemore",
+  "name": "Tom Sizemore",
+  "external_ids": {
+    "wikidata": "Q349852",
+    "imdb": "nm0001744"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961,
+  "death_year": 2023
+}

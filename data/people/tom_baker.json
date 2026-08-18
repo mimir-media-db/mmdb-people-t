@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_baker",
+  "name": "Tom Baker",
+  "external_ids": {
+    "wikidata": "Q358421",
+    "imdb": "nm0048982"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934
+}

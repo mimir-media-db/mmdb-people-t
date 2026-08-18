@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_jones",
+  "name": "Tom Jones",
+  "external_ids": {
+    "wikidata": "Q180850",
+    "imdb": "nm0429367"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

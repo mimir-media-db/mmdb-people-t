@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tobe_hooper",
+  "name": "Tobe Hooper",
+  "external_ids": {
+    "wikidata": "Q450728",
+    "imdb": "nm0001361"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943,
+  "death_year": 2017
+}

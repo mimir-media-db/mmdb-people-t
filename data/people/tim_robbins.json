@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_robbins",
+  "name": "Tim Robbins",
+  "external_ids": {
+    "wikidata": "Q95048",
+    "imdb": "nm0000209"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

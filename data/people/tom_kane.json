@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_kane",
+  "name": "Tom Kane",
+  "external_ids": {
+    "wikidata": "Q2305700",
+    "imdb": "nm0437454"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962,
+  "death_year": 2026
+}

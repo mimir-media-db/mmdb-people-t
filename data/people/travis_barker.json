@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_travis_barker",
+  "name": "Travis Barker",
+  "external_ids": {
+    "wikidata": "Q220140",
+    "imdb": "nm0055003"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

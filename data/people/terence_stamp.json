@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_terence_stamp",
+  "name": "Terence Stamp",
+  "external_ids": {
+    "wikidata": "Q77298",
+    "imdb": "nm0000654"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2025
+}

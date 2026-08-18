@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_curry",
+  "name": "Tim Curry",
+  "external_ids": {
+    "wikidata": "Q52392",
+    "imdb": "nm0000347"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

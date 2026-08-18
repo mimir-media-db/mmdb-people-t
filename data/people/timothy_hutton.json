@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_timothy_hutton",
+  "name": "Timothy Hutton",
+  "external_ids": {
+    "wikidata": "Q310324",
+    "imdb": "nm0000459"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

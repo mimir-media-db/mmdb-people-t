@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tito_puente",
+  "name": "Tito Puente",
+  "external_ids": {
+    "wikidata": "Q317122",
+    "imdb": "nm0005328"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 2000
+}

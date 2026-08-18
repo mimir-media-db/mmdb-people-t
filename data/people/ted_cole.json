@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_cole",
+  "name": "Ted Cole",
+  "external_ids": {
+    "wikidata": "Q4120015",
+    "imdb": "nm0170809"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

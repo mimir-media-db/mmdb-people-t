@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tuesday_knight",
+  "name": "Tuesday Knight",
+  "external_ids": {
+    "wikidata": "Q2469007",
+    "imdb": "nm0461110"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

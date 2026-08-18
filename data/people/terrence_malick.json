@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terrence_malick",
+  "name": "Terrence Malick",
+  "external_ids": {
+    "wikidata": "Q215478",
+    "imdb": "nm0000517"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}
