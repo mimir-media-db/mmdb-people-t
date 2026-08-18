@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_dexter",
+  "name": "Terry Dexter",
+  "external_ids": {
+    "wikidata": "Q18205789",
+    "imdb": "nm1320983"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

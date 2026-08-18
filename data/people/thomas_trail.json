@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_trail",
+  "name": "Thomas Trail",
+  "external_ids": {
+    "wikidata": "Q131401987",
+    "imdb": "nm0870664"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

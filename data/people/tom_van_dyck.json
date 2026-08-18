@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_van_dyck",
+  "name": "Tom Van Dyck",
+  "external_ids": {
+    "wikidata": "Q2379440",
+    "imdb": "nm0886702"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

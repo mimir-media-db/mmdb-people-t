@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_shakespeare",
+  "name": "Terry Shakespeare",
+  "external_ids": {
+    "wikidata": "Q28854933",
+    "imdb": "nm0787653"
+  },
+  "last_updated": "2026-08-18"
+}

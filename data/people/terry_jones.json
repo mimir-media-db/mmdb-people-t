@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_jones",
+  "name": "Terry Jones",
+  "external_ids": {
+    "wikidata": "Q166159",
+    "imdb": "nm0001402"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2020
+}

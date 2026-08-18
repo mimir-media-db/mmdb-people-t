@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_barman",
+  "name": "Tom Barman",
+  "external_ids": {
+    "wikidata": "Q538160",
+    "imdb": "nm0055307"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

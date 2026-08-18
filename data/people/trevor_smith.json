@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trevor_smith",
+  "name": "Trevor Smith",
+  "external_ids": {
+    "wikidata": "Q7839430",
+    "imdb": "nm0810218"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

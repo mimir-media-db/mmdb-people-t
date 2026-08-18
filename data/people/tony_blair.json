@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_blair",
+  "name": "Tony Blair",
+  "external_ids": {
+    "wikidata": "Q9545",
+    "imdb": "nm0086363"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}
