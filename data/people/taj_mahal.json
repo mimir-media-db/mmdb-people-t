@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_taj_mahal",
+  "name": "Taj Mahal",
+  "external_ids": {
+    "wikidata": "Q353023",
+    "imdb": "nm0536737"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

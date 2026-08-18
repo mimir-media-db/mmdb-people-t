@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tuesday_weld",
+  "name": "Tuesday Weld",
+  "external_ids": {
+    "wikidata": "Q239818",
+    "imdb": "nm0001839"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

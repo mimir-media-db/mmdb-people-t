@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tori_spelling",
+  "name": "Tori Spelling",
+  "external_ids": {
+    "wikidata": "Q229050",
+    "imdb": "nm0001760"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

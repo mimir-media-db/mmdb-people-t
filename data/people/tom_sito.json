@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_sito",
+  "name": "Tom Sito",
+  "external_ids": {
+    "wikidata": "Q7817597",
+    "imdb": "nm0004552"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

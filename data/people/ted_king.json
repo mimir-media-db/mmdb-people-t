@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_king",
+  "name": "Ted King",
+  "external_ids": {
+    "wikidata": "Q546369",
+    "imdb": "nm0455316"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

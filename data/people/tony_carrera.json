@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_carrera",
+  "name": "Tony Carrera",
+  "external_ids": {
+    "wikidata": "Q3531717",
+    "imdb": "nm1489048"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

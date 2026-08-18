@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_barry",
+  "name": "Tony Barry",
+  "external_ids": {
+    "wikidata": "Q7821843",
+    "imdb": "nm0058181"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2022
+}

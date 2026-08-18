@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_hope",
+  "name": "Ted Hope",
+  "external_ids": {
+    "wikidata": "Q7693309",
+    "imdb": "nm0394046"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

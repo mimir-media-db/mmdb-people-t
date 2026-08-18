@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_torben_steno",
+  "name": "Torben Steno",
+  "external_ids": {
+    "wikidata": "Q12339589",
+    "imdb": "nm0826645"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
