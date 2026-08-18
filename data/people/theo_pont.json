@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_pont",
+  "name": "Theo Pont",
+  "external_ids": {
+    "wikidata": "Q1807621",
+    "imdb": "nm0690566"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

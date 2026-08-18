@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tolga_ornek",
+  "name": "Tolga Örnek",
+  "external_ids": {
+    "wikidata": "Q7814245",
+    "imdb": "nm1376035"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

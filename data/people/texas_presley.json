@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_texas_presley",
+  "name": "Texas Presley",
+  "external_ids": {
+    "wikidata": "Q7707912",
+    "imdb": "nm2127338"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

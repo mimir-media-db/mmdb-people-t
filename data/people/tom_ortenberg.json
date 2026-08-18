@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_ortenberg",
+  "name": "Tom Ortenberg",
+  "external_ids": {
+    "wikidata": "Q7817124",
+    "imdb": "nm0650973"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

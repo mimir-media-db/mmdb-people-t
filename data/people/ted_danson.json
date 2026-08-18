@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_danson",
+  "name": "Ted Danson",
+  "external_ids": {
+    "wikidata": "Q381203",
+    "imdb": "nm0001101"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_truus_dekker",
+  "name": "Truus Dekker",
+  "external_ids": {
+    "wikidata": "Q2036167",
+    "imdb": "nm0215282"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2022
+}

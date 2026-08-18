@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tricarico",
+  "name": "Tricarico",
+  "external_ids": {
+    "wikidata": "Q3998677",
+    "imdb": "nm2889456"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

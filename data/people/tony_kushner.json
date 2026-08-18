@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_kushner",
+  "name": "Tony Kushner",
+  "external_ids": {
+    "wikidata": "Q704433",
+    "imdb": "nm1065785"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
