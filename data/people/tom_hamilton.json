@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_hamilton",
+  "name": "Tom Hamilton",
+  "external_ids": {
+    "wikidata": "Q317302",
+    "imdb": "nm0358195"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

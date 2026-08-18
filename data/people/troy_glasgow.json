@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_troy_glasgow",
+  "name": "Troy Glasgow",
+  "external_ids": {
+    "wikidata": "Q7846829",
+    "imdb": "nm1246388"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

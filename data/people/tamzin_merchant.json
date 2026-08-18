@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tamzin_merchant",
+  "name": "Tamzin Merchant",
+  "external_ids": {
+    "wikidata": "Q271038",
+    "imdb": "nm1708957"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1987
+}

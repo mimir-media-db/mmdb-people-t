@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_crown",
+  "name": "Thomas Crown",
+  "external_ids": {
+    "wikidata": "Q117844929",
+    "imdb": "nm1687124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

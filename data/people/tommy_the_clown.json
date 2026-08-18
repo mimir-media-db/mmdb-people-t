@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tommy_the_clown",
+  "name": "Tommy the Clown",
+  "external_ids": {
+    "wikidata": "Q3531370",
+    "imdb": "nm1815469"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

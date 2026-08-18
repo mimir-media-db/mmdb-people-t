@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_teoman",
+  "name": "Teoman",
+  "external_ids": {
+    "wikidata": "Q982765",
+    "imdb": "nm1234578"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

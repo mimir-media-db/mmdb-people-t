@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_newsom",
+  "name": "Ted Newsom",
+  "external_ids": {
+    "wikidata": "Q7693554",
+    "imdb": "nm0628399"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2020
+}

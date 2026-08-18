@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tema_patrosza",
+  "name": "Tema Patrosza",
+  "external_ids": {
+    "wikidata": "Q113459251",
+    "imdb": "nm10120016"
+  },
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bianchi",
+  "name": "Tom Bianchi",
+  "external_ids": {
+    "wikidata": "Q1689442",
+    "imdb": "nm1357904"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}
