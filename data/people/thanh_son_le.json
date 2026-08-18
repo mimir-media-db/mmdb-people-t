@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thanh_son_le",
+  "name": "Thanh Son Le",
+  "external_ids": {
+    "wikidata": "Q113669549",
+    "imdb": "nm3734165"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
