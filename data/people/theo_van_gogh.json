@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_van_gogh",
+  "name": "Theo van Gogh",
+  "external_ids": {
+    "wikidata": "Q205456",
+    "imdb": "nm0324660"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 2004
+}

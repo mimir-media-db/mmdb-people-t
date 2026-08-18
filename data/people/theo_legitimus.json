@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_legitimus",
+  "name": "Théo Légitimus",
+  "external_ids": {
+    "wikidata": "Q3526321",
+    "imdb": "nm0529592"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1929,
+  "death_year": 2017
+}

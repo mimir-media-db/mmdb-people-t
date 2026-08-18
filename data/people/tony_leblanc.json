@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_leblanc",
+  "name": "Tony Leblanc",
+  "external_ids": {
+    "wikidata": "Q129629",
+    "imdb": "nm0495764"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2012
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_toni_venturi",
+  "name": "Toni Venturi",
+  "external_ids": {
+    "wikidata": "Q10383180",
+    "imdb": "nm0893410"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2024
+}

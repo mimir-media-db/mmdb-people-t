@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_ford",
+  "name": "Tom Ford",
+  "external_ids": {
+    "wikidata": "Q318149",
+    "imdb": "nm1053530"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

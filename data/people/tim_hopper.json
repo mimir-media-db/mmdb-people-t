@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_hopper",
+  "name": "Tim Hopper",
+  "external_ids": {
+    "wikidata": "Q4119466",
+    "imdb": "nm0394434"
+  },
+  "last_updated": "2026-08-18"
+}

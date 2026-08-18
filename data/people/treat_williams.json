@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_treat_williams",
+  "name": "Treat Williams",
+  "external_ids": {
+    "wikidata": "Q352730",
+    "imdb": "nm0001852"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2023
+}
