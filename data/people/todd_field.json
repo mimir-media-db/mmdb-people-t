@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_todd_field",
+  "name": "Todd Field",
+  "external_ids": {
+    "wikidata": "Q670296",
+    "imdb": "nm0276062"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

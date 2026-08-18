@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_fisher",
+  "name": "Tom Fisher",
+  "external_ids": {
+    "wikidata": "Q1406801",
+    "imdb": "nm1433660"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

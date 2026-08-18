@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_burton",
+  "name": "Tim Burton",
+  "external_ids": {
+    "wikidata": "Q56008",
+    "imdb": "nm0000318"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
