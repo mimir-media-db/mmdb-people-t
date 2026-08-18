@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_byron",
+  "name": "Tom Byron",
+  "external_ids": {
+    "wikidata": "Q698894",
+    "imdb": "nm0001000"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

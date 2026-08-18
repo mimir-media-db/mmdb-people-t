@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tess_harper",
+  "name": "Tess Harper",
+  "external_ids": {
+    "wikidata": "Q443044",
+    "imdb": "nm0002128"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

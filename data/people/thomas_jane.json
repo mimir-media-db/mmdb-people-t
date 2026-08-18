@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_jane",
+  "name": "Thomas Jane",
+  "external_ids": {
+    "wikidata": "Q18938",
+    "imdb": "nm0005048"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

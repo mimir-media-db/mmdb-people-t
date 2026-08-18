@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_denman",
+  "name": "Tony Denman",
+  "external_ids": {
+    "wikidata": "Q1343650",
+    "imdb": "nm0219301"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

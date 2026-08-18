@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tea_leoni",
+  "name": "Téa Leoni",
+  "external_ids": {
+    "wikidata": "Q202475",
+    "imdb": "nm0000495"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

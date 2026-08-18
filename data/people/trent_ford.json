@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trent_ford",
+  "name": "Trent Ford",
+  "external_ids": {
+    "wikidata": "Q1306003",
+    "imdb": "nm0285913"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

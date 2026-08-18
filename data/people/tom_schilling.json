@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_schilling",
+  "name": "Tom Schilling",
+  "external_ids": {
+    "wikidata": "Q26763",
+    "imdb": "nm0771713"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

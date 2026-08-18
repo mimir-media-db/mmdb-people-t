@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tara_reid",
+  "name": "Tara Reid",
+  "external_ids": {
+    "wikidata": "Q211082",
+    "imdb": "nm0005346"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

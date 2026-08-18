@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_timothy_dalton",
+  "name": "Timothy Dalton",
+  "external_ids": {
+    "wikidata": "Q41233",
+    "imdb": "nm0001096"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

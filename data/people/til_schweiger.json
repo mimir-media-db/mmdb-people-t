@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_til_schweiger",
+  "name": "Til Schweiger",
+  "external_ids": {
+    "wikidata": "Q57391",
+    "imdb": "nm0001709"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
