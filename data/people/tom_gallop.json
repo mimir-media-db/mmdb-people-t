@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_gallop",
+  "name": "Tom Gallop",
+  "external_ids": {
+    "wikidata": "Q9088115",
+    "imdb": "nm0303132"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

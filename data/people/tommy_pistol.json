@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tommy_pistol",
+  "name": "Tommy Pistol",
+  "external_ids": {
+    "wikidata": "Q3531343",
+    "imdb": "nm1874117"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

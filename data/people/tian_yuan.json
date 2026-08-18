@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tian_yuan",
+  "name": "Tian Yuan",
+  "external_ids": {
+    "wikidata": "Q3112849",
+    "imdb": "nm1801656"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

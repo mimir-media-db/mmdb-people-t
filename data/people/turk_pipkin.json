@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_turk_pipkin",
+  "name": "Turk Pipkin",
+  "external_ids": {
+    "wikidata": "Q7855008",
+    "imdb": "nm0684992"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

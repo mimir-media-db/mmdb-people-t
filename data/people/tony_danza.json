@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_danza",
+  "name": "Tony Danza",
+  "external_ids": {
+    "wikidata": "Q721963",
+    "imdb": "nm0001103"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

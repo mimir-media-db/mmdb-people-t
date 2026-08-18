@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_hooper",
+  "name": "Tom Hooper",
+  "external_ids": {
+    "wikidata": "Q295912",
+    "imdb": "nm0393799"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

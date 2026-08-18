@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_stich",
+  "name": "Theo Stich",
+  "external_ids": {
+    "wikidata": "Q1500962",
+    "imdb": "nm1969950"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_mcgraw",
+  "name": "Tim McGraw",
+  "external_ids": {
+    "wikidata": "Q356487",
+    "imdb": "nm0005210"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

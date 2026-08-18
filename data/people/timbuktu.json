@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_timbuktu",
+  "name": "Timbuktu",
+  "external_ids": {
+    "wikidata": "Q44828",
+    "imdb": "nm2169066"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

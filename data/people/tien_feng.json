@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tien_feng",
+  "name": "Tien Feng",
+  "external_ids": {
+    "wikidata": "Q7801028",
+    "imdb": "nm0284608"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2015
+}

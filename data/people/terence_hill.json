@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terence_hill",
+  "name": "Terence Hill",
+  "external_ids": {
+    "wikidata": "Q243430",
+    "imdb": "nm0001352"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}
