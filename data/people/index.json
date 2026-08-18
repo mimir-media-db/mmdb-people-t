@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "p_terezie_hola",
+    "name": "Terezie Holá",
+    "path": "data/people/terezie_hola.json"
+  },
+  {
+    "id": "p_till_harms",
+    "name": "Till Harms",
+    "birth_year": 1970,
+    "path": "data/people/till_harms.json"
+  },
+  {
+    "id": "p_tom_shoval",
+    "name": "Tom Shoval",
+    "birth_year": 1981,
+    "path": "data/people/tom_shoval.json"
+  },
+  {
+    "id": "p_tomas_bambusek",
+    "name": "Tomáš Bambušek",
+    "birth_year": 1972,
+    "path": "data/people/tomas_bambusek.json"
+  },
+  {
+    "id": "p_tomas_klein",
+    "name": "Tomás Klein",
+    "birth_year": 1987,
+    "path": "data/people/tomas_klein.json"
+  },
+  {
+    "id": "p_tomas_mastalir",
+    "name": "Tomáš Maštalír",
+    "birth_year": 1977,
+    "path": "data/people/tomas_mastalir.json"
+  },
+  {
+    "id": "p_tomas_matonoha",
+    "name": "Tomáš Matonoha",
+    "birth_year": 1971,
+    "path": "data/people/tomas_matonoha.json"
+  }
+]
