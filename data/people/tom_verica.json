@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_verica",
+  "name": "Tom Verica",
+  "external_ids": {
+    "wikidata": "Q929634",
+    "imdb": "nm0894225"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

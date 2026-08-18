@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tito_garcia",
+  "name": "Tito García",
+  "external_ids": {
+    "wikidata": "Q2436995",
+    "imdb": "nm0306415"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2003
+}

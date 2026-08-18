@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_gilliam",
+  "name": "Terry Gilliam",
+  "external_ids": {
+    "wikidata": "Q25078",
+    "imdb": "nm0000416"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

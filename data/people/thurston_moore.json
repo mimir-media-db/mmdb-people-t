@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thurston_moore",
+  "name": "Thurston Moore",
+  "external_ids": {
+    "wikidata": "Q505677",
+    "imdb": "nm0601952"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

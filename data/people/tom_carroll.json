@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_carroll",
+  "name": "Tom Carroll",
+  "external_ids": {
+    "wikidata": "Q2327296",
+    "imdb": "nm1226321"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

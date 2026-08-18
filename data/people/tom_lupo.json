@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_lupo",
+  "name": "Tom Lupo",
+  "external_ids": {
+    "wikidata": "Q6148175",
+    "imdb": "nm2060856"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2020
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trevor_eve",
+  "name": "Trevor Eve",
+  "external_ids": {
+    "wikidata": "Q345950",
+    "imdb": "nm0263368"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

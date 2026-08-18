@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_field",
+  "name": "Ted Field",
+  "external_ids": {
+    "wikidata": "Q7693189",
+    "imdb": "nm0276059"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}
