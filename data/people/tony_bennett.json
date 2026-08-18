@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_bennett",
+  "name": "Tony Bennett",
+  "external_ids": {
+    "wikidata": "Q296729",
+    "imdb": "nm0004746"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2023
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_barcal",
+  "name": "Tom Barcal",
+  "external_ids": {
+    "wikidata": "Q2439495",
+    "imdb": "nm2168624"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

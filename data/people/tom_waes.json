@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_waes",
+  "name": "Tom Waes",
+  "external_ids": {
+    "wikidata": "Q1471291",
+    "imdb": "nm1417876"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

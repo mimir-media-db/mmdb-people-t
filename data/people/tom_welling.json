@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_welling",
+  "name": "Tom Welling",
+  "external_ids": {
+    "wikidata": "Q200261",
+    "imdb": "nm0919991"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

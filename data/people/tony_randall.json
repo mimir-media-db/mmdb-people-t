@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_randall",
+  "name": "Tony Randall",
+  "external_ids": {
+    "wikidata": "Q286717",
+    "imdb": "nm0709704"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 2004
+}

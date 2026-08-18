@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_turner",
+  "name": "Ted Turner",
+  "external_ids": {
+    "wikidata": "Q193368",
+    "imdb": "nm0877894"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2026
+}
