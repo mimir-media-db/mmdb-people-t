@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_toby_hemingway",
+  "name": "Toby Hemingway",
+  "external_ids": {
+    "wikidata": "Q629985",
+    "imdb": "nm1738172"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

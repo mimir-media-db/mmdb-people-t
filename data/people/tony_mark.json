@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_mark",
+  "name": "Tony Mark",
+  "external_ids": {
+    "wikidata": "Q7822876",
+    "imdb": "nm0548299"
+  },
+  "last_updated": "2026-08-18"
+}

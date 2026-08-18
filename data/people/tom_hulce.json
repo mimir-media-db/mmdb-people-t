@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_hulce",
+  "name": "Tom Hulce",
+  "external_ids": {
+    "wikidata": "Q315039",
+    "imdb": "nm0001371"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

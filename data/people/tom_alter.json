@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_alter",
+  "name": "Tom Alter",
+  "external_ids": {
+    "wikidata": "Q7814774",
+    "imdb": "nm0022758"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950,
+  "death_year": 2017
+}

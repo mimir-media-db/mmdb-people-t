@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_disney",
+  "name": "Tim Disney",
+  "external_ids": {
+    "wikidata": "Q28803330",
+    "imdb": "nm0228400"
+  },
+  "last_updated": "2026-08-18"
+}
