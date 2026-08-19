@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tea_falco",
+  "name": "Tea Falco",
+  "external_ids": {
+    "wikidata": "Q13459567",
+    "imdb": "nm4577989"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

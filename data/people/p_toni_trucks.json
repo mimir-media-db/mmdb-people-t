@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_toni_trucks",
+  "name": "Toni Trucks",
+  "external_ids": {
+    "wikidata": "Q444373",
+    "imdb": "nm1926337"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tila_tequila",
+  "name": "Tila Tequila",
+  "external_ids": {
+    "wikidata": "Q233295",
+    "imdb": "nm1712094"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
