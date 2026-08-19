@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theresa_watson",
+  "name": "Theresa Watson",
+  "external_ids": {
+    "wikidata": "Q7782903",
+    "imdb": "nm0914902"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946
+}

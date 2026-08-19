@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tarmo_song",
+  "name": "Tarmo Song",
+  "external_ids": {
+    "wikidata": "Q110977026",
+    "imdb": "nm2869384"
+  },
+  "last_updated": "2026-08-19"
+}
