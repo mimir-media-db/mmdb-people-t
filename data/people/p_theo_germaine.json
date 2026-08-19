@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_germaine",
+  "name": "Theo Germaine",
+  "external_ids": {
+    "wikidata": "Q72759178",
+    "imdb": "nm7466966"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
