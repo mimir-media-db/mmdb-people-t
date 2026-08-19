@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_morton",
+  "name": "Tim Morton",
+  "external_ids": {
+    "wikidata": "Q21155086",
+    "imdb": "nm1939243"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

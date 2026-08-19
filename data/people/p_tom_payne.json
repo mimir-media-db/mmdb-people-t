@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_payne",
+  "name": "Tom Payne",
+  "external_ids": {
+    "wikidata": "Q7817189",
+    "imdb": "nm2092835"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
