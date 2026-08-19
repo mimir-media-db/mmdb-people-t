@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trine_sick",
+  "name": "Trine Sick",
+  "external_ids": {
+    "wikidata": "Q12339777",
+    "imdb": "nm1306563"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}

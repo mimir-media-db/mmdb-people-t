@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_taylor_john_smith",
+  "name": "Taylor John Smith",
+  "external_ids": {
+    "wikidata": "Q27535222",
+    "imdb": "nm4973896"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

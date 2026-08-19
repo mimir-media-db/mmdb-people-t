@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_trachte",
+  "name": "Tim Trachte",
+  "external_ids": {
+    "wikidata": "Q1478569",
+    "imdb": "nm2854538"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
