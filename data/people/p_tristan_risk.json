@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tristan_risk",
+  "name": "Tristan Risk",
+  "external_ids": {
+    "wikidata": "Q22675724",
+    "imdb": "nm2021381"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

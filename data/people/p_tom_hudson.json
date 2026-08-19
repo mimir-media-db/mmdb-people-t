@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_hudson",
+  "name": "Tom Hudson",
+  "external_ids": {
+    "wikidata": "Q25189273",
+    "imdb": "nm4423028"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

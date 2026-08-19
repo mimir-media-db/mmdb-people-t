@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_jessup",
+  "name": "Ted Jessup",
+  "external_ids": {
+    "wikidata": "Q7693340",
+    "imdb": "nm0422277"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

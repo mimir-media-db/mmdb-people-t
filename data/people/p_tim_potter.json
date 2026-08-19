@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_potter",
+  "name": "Tim Potter",
+  "external_ids": {
+    "wikidata": "Q17417501",
+    "imdb": "nm0693364"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
