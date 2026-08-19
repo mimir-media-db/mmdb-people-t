@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terje_toomistu",
+  "name": "Terje Toomistu",
+  "external_ids": {
+    "wikidata": "Q85992808",
+    "imdb": "nm4816276"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

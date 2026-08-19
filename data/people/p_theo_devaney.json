@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_devaney",
+  "name": "Theo Devaney",
+  "external_ids": {
+    "wikidata": "Q77643705",
+    "imdb": "nm3575402"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

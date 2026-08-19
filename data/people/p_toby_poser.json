@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_toby_poser",
+  "name": "Toby Poser",
+  "external_ids": {
+    "wikidata": "Q22926978",
+    "imdb": "nm0692652"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

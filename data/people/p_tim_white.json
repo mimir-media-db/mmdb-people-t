@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_white",
+  "name": "Tim White",
+  "external_ids": {
+    "wikidata": "Q111384058",
+    "imdb": "nm2807321"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
