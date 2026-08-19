@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bean",
+  "name": "Tom Bean",
+  "external_ids": {
+    "wikidata": "Q117858931",
+    "imdb": "nm1447175"
+  },
+  "last_updated": "2026-08-19"
+}

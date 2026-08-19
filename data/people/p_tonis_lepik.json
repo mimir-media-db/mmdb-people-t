@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tonis_lepik",
+  "name": "Tõnis Lepik",
+  "external_ids": {
+    "wikidata": "Q16406209",
+    "imdb": "nm0503293"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

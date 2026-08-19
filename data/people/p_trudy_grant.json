@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_trudy_grant",
+  "name": "Trudy Grant",
+  "external_ids": {
+    "wikidata": "Q7847280",
+    "imdb": "nm0335686"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_hawks",
+  "name": "Tony Hawks",
+  "external_ids": {
+    "wikidata": "Q2442597",
+    "imdb": "nm0370281"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

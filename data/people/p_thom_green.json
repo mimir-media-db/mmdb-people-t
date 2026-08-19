@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thom_green",
+  "name": "Thom Green",
+  "external_ids": {
+    "wikidata": "Q998064",
+    "imdb": "nm2964015"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}

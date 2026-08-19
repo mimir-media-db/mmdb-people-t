@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_turner",
+  "name": "Tom Turner",
+  "external_ids": {
+    "wikidata": "Q117860485",
+    "imdb": "nm4774084"
+  },
+  "last_updated": "2026-08-19"
+}
