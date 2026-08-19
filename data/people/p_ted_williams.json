@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_williams",
+  "name": "Ted Williams",
+  "external_ids": {
+    "wikidata": "Q978330",
+    "imdb": "nm4245025"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tipper_newton",
+  "name": "Tipper Newton",
+  "external_ids": {
+    "wikidata": "Q63192011",
+    "imdb": "nm1997169"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

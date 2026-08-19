@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tien_luat",
+  "name": "Tiến Luật",
+  "external_ids": {
+    "wikidata": "Q110094605",
+    "imdb": "nm8328804"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
