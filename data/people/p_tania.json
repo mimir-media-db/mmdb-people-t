@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tania",
+  "name": "Tania",
+  "external_ids": {
+    "wikidata": "Q63457200",
+    "imdb": "nm10406540"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

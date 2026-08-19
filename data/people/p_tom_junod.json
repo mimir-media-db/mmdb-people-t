@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_junod",
+  "name": "Tom Junod",
+  "external_ids": {
+    "wikidata": "Q7816381",
+    "imdb": "nm1754526"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
