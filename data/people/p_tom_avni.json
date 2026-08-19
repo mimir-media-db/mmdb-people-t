@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_avni",
+  "name": "Tom Avni",
+  "external_ids": {
+    "wikidata": "Q6868488",
+    "imdb": "nm0043268"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
