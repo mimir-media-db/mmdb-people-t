@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thierry_henry",
+  "name": "Thierry Henry",
+  "external_ids": {
+    "wikidata": "Q45901",
+    "imdb": "nm1128244"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

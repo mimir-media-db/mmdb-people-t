@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_kalin",
+  "name": "Tom Kalin",
+  "external_ids": {
+    "wikidata": "Q447005",
+    "imdb": "nm0435788"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

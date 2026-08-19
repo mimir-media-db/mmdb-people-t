@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_rock",
+  "name": "Tony Rock",
+  "external_ids": {
+    "wikidata": "Q7823293",
+    "imdb": "nm0734203"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

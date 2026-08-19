@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_powers",
+  "name": "Tim Powers",
+  "external_ids": {
+    "wikidata": "Q363810",
+    "imdb": "nm0694627"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
