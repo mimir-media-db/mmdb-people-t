@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_pool",
+  "name": "Tim Pool",
+  "external_ids": {
+    "wikidata": "Q7804121",
+    "imdb": "nm4913514"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

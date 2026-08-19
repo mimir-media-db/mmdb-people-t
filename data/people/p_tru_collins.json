@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tru_collins",
+  "name": "Tru Collins",
+  "external_ids": {
+    "wikidata": "Q7847097",
+    "imdb": "nm3280250"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

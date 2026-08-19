@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_mercier",
+  "name": "Tom Mercier",
+  "external_ids": {
+    "wikidata": "Q61728866",
+    "imdb": "nm10395866"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
