@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_notary",
+  "name": "Terry Notary",
+  "external_ids": {
+    "wikidata": "Q7704857",
+    "imdb": "nm1024953"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
