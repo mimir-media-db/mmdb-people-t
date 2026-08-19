@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_talmage_cooley",
+  "name": "Talmage Cooley",
+  "external_ids": {
+    "wikidata": "Q7680242",
+    "imdb": "nm1548627"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

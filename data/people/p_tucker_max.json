@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tucker_max",
+  "name": "Tucker Max",
+  "external_ids": {
+    "wikidata": "Q3251928",
+    "imdb": "nm2984420"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
