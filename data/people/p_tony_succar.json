@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_succar",
+  "name": "Tony Succar",
+  "external_ids": {
+    "wikidata": "Q16231564",
+    "imdb": "nm5654897"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

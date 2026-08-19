@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tonio_life",
+  "name": "Tonio Life",
+  "external_ids": {
+    "wikidata": "Q125689822",
+    "imdb": "nm7470146"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
