@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_austen",
+  "name": "Tom Austen",
+  "external_ids": {
+    "wikidata": "Q6148146",
+    "imdb": "nm3781701"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
