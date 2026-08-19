@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_alesch",
+  "name": "Tom Alesch",
+  "external_ids": {
+    "wikidata": "Q13105249",
+    "imdb": "nm0018104"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

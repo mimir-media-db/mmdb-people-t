@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_truman_hanks",
+  "name": "Truman Hanks",
+  "external_ids": {
+    "wikidata": "Q20993896",
+    "imdb": "nm9669780"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

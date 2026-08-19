@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ts_madison",
+  "name": "Ts Madison",
+  "external_ids": {
+    "wikidata": "Q18044716",
+    "imdb": "nm8352392"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
