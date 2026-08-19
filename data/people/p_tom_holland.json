@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_holland",
+  "name": "Tom Holland",
+  "external_ids": {
+    "wikidata": "Q1340923",
+    "imdb": "nm0276169"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}

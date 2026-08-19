@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tina_bilsbo",
+  "name": "Tina Bilsbo",
+  "external_ids": {
+    "wikidata": "Q12339410",
+    "imdb": "nm1184453"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

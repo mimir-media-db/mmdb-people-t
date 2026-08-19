@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trudi_klever",
+  "name": "Trudi Klever",
+  "external_ids": {
+    "wikidata": "Q2995765",
+    "imdb": "nm3594667"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
