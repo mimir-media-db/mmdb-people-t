@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tomas_pais",
+  "name": "Tomas Pais",
+  "external_ids": {
+    "wikidata": "Q116506359",
+    "imdb": "nm1855183"
+  },
+  "last_updated": "2026-08-19"
+}
