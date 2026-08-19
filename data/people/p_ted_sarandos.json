@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_sarandos",
+  "name": "Ted Sarandos",
+  "external_ids": {
+    "wikidata": "Q19661212",
+    "imdb": "nm1848253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

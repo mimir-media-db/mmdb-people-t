@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thanh_loc",
+  "name": "Thành Lộc",
+  "external_ids": {
+    "wikidata": "Q10825563",
+    "imdb": "nm5474787"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
