@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tuna_kaptan",
+  "name": "Tuna Kaptan",
+  "external_ids": {
+    "wikidata": "Q95220483",
+    "imdb": "nm4665948"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
