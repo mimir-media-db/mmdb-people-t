@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_key",
+  "name": "Tim Key",
+  "external_ids": {
+    "wikidata": "Q7803772",
+    "imdb": "nm2764713"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tamara_taxman",
+  "name": "Tamara Taxman",
+  "external_ids": {
+    "wikidata": "Q10377996",
+    "imdb": "nm0851837"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}

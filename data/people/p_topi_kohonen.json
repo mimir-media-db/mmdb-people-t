@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_topi_kohonen",
+  "name": "Topi Kohonen",
+  "external_ids": {
+    "wikidata": "Q11898148",
+    "imdb": "nm4520980"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

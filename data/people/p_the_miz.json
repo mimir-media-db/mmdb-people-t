@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_the_miz",
+  "name": "The Miz",
+  "external_ids": {
+    "wikidata": "Q44379",
+    "imdb": "nm1025616"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

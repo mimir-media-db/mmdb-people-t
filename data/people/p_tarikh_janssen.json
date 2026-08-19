@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tarikh_janssen",
+  "name": "Tarikh Janssen",
+  "external_ids": {
+    "wikidata": "Q49166232",
+    "imdb": "nm4331536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

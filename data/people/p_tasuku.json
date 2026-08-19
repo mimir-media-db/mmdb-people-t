@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tasuku",
+  "name": "Tasuku",
+  "external_ids": {
+    "wikidata": "Q4253305",
+    "imdb": "nm4707191"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_den_besten",
+  "name": "Tim den Besten",
+  "external_ids": {
+    "wikidata": "Q55726108",
+    "imdb": "nm0079027"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
