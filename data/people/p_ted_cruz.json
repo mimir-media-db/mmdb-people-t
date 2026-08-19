@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_cruz",
+  "name": "Ted Cruz",
+  "external_ids": {
+    "wikidata": "Q2036942",
+    "imdb": "nm5563034"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
