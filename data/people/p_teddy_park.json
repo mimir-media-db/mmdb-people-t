@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_teddy_park",
+  "name": "Teddy Park",
+  "external_ids": {
+    "wikidata": "Q7694067",
+    "imdb": "nm10259072"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
