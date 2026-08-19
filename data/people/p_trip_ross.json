@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_trip_ross",
+  "name": "Trip Ross",
+  "external_ids": {
+    "wikidata": "Q7843196",
+    "imdb": "nm2906001"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

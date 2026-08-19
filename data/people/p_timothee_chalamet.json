@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_timothee_chalamet",
+  "name": "Timothée Chalamet",
+  "external_ids": {
+    "wikidata": "Q19877770",
+    "imdb": "nm3154303"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
