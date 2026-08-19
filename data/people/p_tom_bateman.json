@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bateman",
+  "name": "Tom Bateman",
+  "external_ids": {
+    "wikidata": "Q11721652",
+    "imdb": "nm5290643"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

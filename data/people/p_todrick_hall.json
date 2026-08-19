@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_todrick_hall",
+  "name": "Todrick Hall",
+  "external_ids": {
+    "wikidata": "Q16205820",
+    "imdb": "nm3789773"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
