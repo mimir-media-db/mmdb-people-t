@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_horton",
+  "name": "Tony Horton",
+  "external_ids": {
+    "wikidata": "Q7822596",
+    "imdb": "nm0395685"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}

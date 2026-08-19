@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_wisdom",
+  "name": "Tom Wisdom",
+  "external_ids": {
+    "wikidata": "Q1320089",
+    "imdb": "nm0936300"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

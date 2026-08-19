@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_terry_bradshaw",
+  "name": "Terry Bradshaw",
+  "external_ids": {
+    "wikidata": "Q633263",
+    "imdb": "nm0103537"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

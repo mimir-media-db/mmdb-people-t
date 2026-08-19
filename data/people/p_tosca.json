@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tosca",
+  "name": "Tosca",
+  "external_ids": {
+    "wikidata": "Q3529997",
+    "imdb": "nm1381847"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

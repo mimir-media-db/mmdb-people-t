@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tarvo_langeberg",
+  "name": "Tarvo Langeberg",
+  "external_ids": {
+    "wikidata": "Q124705412",
+    "imdb": "nm1968055"
+  },
+  "last_updated": "2026-08-19"
+}

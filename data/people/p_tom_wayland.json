@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_wayland",
+  "name": "Tom Wayland",
+  "external_ids": {
+    "wikidata": "Q7818005",
+    "imdb": "nm0915487"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

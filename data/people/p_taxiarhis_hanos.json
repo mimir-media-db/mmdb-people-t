@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_taxiarhis_hanos",
+  "name": "Taxiarhis Hanos",
+  "external_ids": {
+    "wikidata": "Q69983671",
+    "imdb": "nm1380229"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

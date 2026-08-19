@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_mason",
+  "name": "Tom Mason",
+  "external_ids": {
+    "wikidata": "Q1962798",
+    "imdb": "nm0556985"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
