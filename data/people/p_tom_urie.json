@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_urie",
+  "name": "Tom Urie",
+  "external_ids": {
+    "wikidata": "Q7817907",
+    "imdb": "nm1146882"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

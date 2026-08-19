@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_turku_turan",
+  "name": "Türkü Turan",
+  "external_ids": {
+    "wikidata": "Q6548611",
+    "imdb": "nm3533634"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
