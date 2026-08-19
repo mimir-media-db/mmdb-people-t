@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_ward",
+  "name": "Tony Ward",
+  "external_ids": {
+    "wikidata": "Q2577525",
+    "imdb": "nm0911897"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

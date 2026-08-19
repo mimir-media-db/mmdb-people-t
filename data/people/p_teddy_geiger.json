@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_teddy_geiger",
+  "name": "Teddy Geiger",
+  "external_ids": {
+    "wikidata": "Q1190500",
+    "imdb": "nm2061362"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

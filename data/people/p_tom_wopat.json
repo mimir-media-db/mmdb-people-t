@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_wopat",
+  "name": "Tom Wopat",
+  "external_ids": {
+    "wikidata": "Q2004171",
+    "imdb": "nm0941374"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

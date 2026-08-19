@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_the_edge",
+  "name": "The Edge",
+  "external_ids": {
+    "wikidata": "Q714845",
+    "imdb": "nm0857253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

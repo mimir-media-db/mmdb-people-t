@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bogs",
+  "name": "Tom Bogs",
+  "external_ids": {
+    "wikidata": "Q1496671",
+    "imdb": "nm0091915"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944,
+  "death_year": 2023
+}
