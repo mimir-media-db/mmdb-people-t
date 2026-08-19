@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_truman_hunter",
+  "name": "Truman Hunter",
+  "external_ids": {
+    "wikidata": "Q113961673",
+    "imdb": "nm3215671"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

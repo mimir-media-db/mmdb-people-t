@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_troupe",
+  "name": "Tom Troupe",
+  "external_ids": {
+    "wikidata": "Q1322365",
+    "imdb": "nm0873773"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2025
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tommy_bond",
+  "name": "Tommy Bond",
+  "external_ids": {
+    "wikidata": "Q323647",
+    "imdb": "nm0094054"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1926,
+  "death_year": 2005
+}

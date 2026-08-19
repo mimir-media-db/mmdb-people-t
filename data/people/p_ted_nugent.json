@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_nugent",
+  "name": "Ted Nugent",
+  "external_ids": {
+    "wikidata": "Q334670",
+    "imdb": "nm0637823"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

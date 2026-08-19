@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tamino_wecker",
+  "name": "Tamino Wecker",
+  "external_ids": {
+    "wikidata": "Q15989112",
+    "imdb": "nm2081676"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
