@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_price",
+  "name": "Tom Price",
+  "external_ids": {
+    "wikidata": "Q9023595",
+    "imdb": "nm3697221"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

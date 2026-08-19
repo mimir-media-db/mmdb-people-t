@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_huckabee",
+  "name": "Tom Huckabee",
+  "external_ids": {
+    "wikidata": "Q117883758",
+    "imdb": "nm0399592"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955,
+  "death_year": 2022
+}

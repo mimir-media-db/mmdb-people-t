@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_brown",
+  "name": "Tom Brown",
+  "external_ids": {
+    "wikidata": "Q2439545",
+    "imdb": "nm0114805"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1913,
+  "death_year": 1990
+}

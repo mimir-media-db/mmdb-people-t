@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_stark",
+  "name": "Tony Stark",
+  "external_ids": {
+    "wikidata": "Q139850003",
+    "imdb": "nm11017439"
+  },
+  "last_updated": "2026-08-19"
+}
