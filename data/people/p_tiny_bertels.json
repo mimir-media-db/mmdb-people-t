@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tiny_bertels",
+  "name": "Tiny Bertels",
+  "external_ids": {
+    "wikidata": "Q2037957",
+    "imdb": "nm1089135"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

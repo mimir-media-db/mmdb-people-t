@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_ost",
+  "name": "Tim Ost",
+  "external_ids": {
+    "wikidata": "Q51714365",
+    "imdb": "nm4852621"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

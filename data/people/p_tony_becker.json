@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_becker",
+  "name": "Tony Becker",
+  "external_ids": {
+    "wikidata": "Q7821861",
+    "imdb": "nm0065604"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

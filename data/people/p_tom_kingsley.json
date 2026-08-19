@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_kingsley",
+  "name": "Tom Kingsley",
+  "external_ids": {
+    "wikidata": "Q7816474",
+    "imdb": "nm2444240"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
