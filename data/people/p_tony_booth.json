@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tony_booth",
+  "name": "Tony Booth",
+  "external_ids": {
+    "wikidata": "Q2852815",
+    "imdb": "nm0095641"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931,
+  "death_year": 2017
+}
