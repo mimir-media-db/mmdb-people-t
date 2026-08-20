@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_third",
+  "name": "Tom Third",
+  "external_ids": {
+    "wikidata": "Q113535557",
+    "imdb": "nm0858203"
+  },
+  "last_updated": "2026-08-20"
+}
