@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_toks_korner",
+  "name": "Toks Körner",
+  "external_ids": {
+    "wikidata": "Q76458332",
+    "imdb": "nm1242711"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}
