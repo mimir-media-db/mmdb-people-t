@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tonis_leht",
+  "name": "Tõnis Leht",
+  "external_ids": {
+    "wikidata": "Q124331268",
+    "imdb": "nm1411975"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}
