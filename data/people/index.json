@@ -926,6 +926,12 @@
     "path": "data/people/p_tag_purvis.json"
   },
   {
+    "id": "p_tagaq",
+    "name": "Tagaq",
+    "birth_year": 1975,
+    "path": "data/people/p_tagaq.json"
+  },
+  {
     "id": "p_tage_astrom",
     "name": "Tage Åström",
     "birth_year": 1961,
@@ -2270,6 +2276,12 @@
     "name": "Takehiko Hata",
     "birth_year": 1968,
     "path": "data/people/p_takehiko_hata.json"
+  },
+  {
+    "id": "p_takehiko_minato",
+    "name": "Takehiko Minato",
+    "birth_year": 1974,
+    "path": "data/people/p_takehiko_minato.json"
   },
   {
     "id": "p_takehiko_shinjo",
@@ -5206,6 +5218,12 @@
     "path": "data/people/p_tanishaa.json"
   },
   {
+    "id": "p_tanishk_bagchi",
+    "name": "Tanishk Bagchi",
+    "birth_year": 1980,
+    "path": "data/people/p_tanishk_bagchi.json"
+  },
+  {
     "id": "p_tanit_jitnukul",
     "name": "Tanit Jitnukul",
     "birth_year": 1956,
@@ -6543,6 +6561,12 @@
     "name": "Tarek Zayat",
     "birth_year": 1998,
     "path": "data/people/p_tarek_zayat.json"
+  },
+  {
+    "id": "p_tarell_alvin_mccraney",
+    "name": "Tarell Alvin McCraney",
+    "birth_year": 1980,
+    "path": "data/people/p_tarell_alvin_mccraney.json"
   },
   {
     "id": "p_tareq_allam",
@@ -8909,6 +8933,12 @@
     "path": "data/people/p_ted_braun.json"
   },
   {
+    "id": "p_ted_chiang",
+    "name": "Ted Chiang",
+    "birth_year": 1967,
+    "path": "data/people/p_ted_chiang.json"
+  },
+  {
     "id": "p_ted_cole",
     "name": "Ted Cole",
     "birth_year": 1971,
@@ -9621,6 +9651,12 @@
     "name": "Teijo Eloranta",
     "birth_year": 1960,
     "path": "data/people/p_teijo_eloranta.json"
+  },
+  {
+    "id": "p_teitur_lassen",
+    "name": "Teitur Lassen",
+    "birth_year": 1977,
+    "path": "data/people/p_teitur_lassen.json"
   },
   {
     "id": "p_teizo_matsumura",
@@ -11521,6 +11557,12 @@
     "name": "Terje Håkonsen",
     "birth_year": 1974,
     "path": "data/people/p_terje_hakonsen.json"
+  },
+  {
+    "id": "p_terje_isungset",
+    "name": "Terje Isungset",
+    "birth_year": 1964,
+    "path": "data/people/p_terje_isungset.json"
   },
   {
     "id": "p_terje_kristiansen",
@@ -13670,6 +13712,12 @@
     "path": "data/people/p_the_hardbitten_heretic.json"
   },
   {
+    "id": "p_the_haxan_cloak",
+    "name": "The Haxan Cloak",
+    "birth_year": 1984,
+    "path": "data/people/p_the_haxan_cloak.json"
+  },
+  {
     "id": "p_the_kid_laroi",
     "name": "The Kid Laroi",
     "birth_year": 2003,
@@ -15363,6 +15411,11 @@
     "path": "data/people/p_thiti_mahayotaruk.json"
   },
   {
+    "id": "p_thobias_hoffmen",
+    "name": "Thobias Hoffmén",
+    "path": "data/people/p_thobias_hoffmen.json"
+  },
+  {
     "id": "p_thodoris_atheridis",
     "name": "Thodoris Atheridis",
     "birth_year": 1965,
@@ -15546,6 +15599,12 @@
     "name": "Thomás Aquino",
     "birth_year": 1986,
     "path": "data/people/p_thomas_aquino.json"
+  },
+  {
+    "id": "p_thomas_arent",
+    "name": "Thomas Arent",
+    "birth_year": 1983,
+    "path": "data/people/p_thomas_arent.json"
   },
   {
     "id": "p_thomas_arnold",
@@ -17457,6 +17516,11 @@
     "id": "p_thomas_newton",
     "name": "Thomas Newton",
     "path": "data/people/p_thomas_newton.json"
+  },
+  {
+    "id": "p_thomas_ng_keiwai",
+    "name": "Thomas Ng Kei-Wai",
+    "path": "data/people/p_thomas_ng_keiwai.json"
   },
   {
     "id": "p_thomas_ngijol",
@@ -20714,6 +20778,12 @@
     "path": "data/people/p_tim_den_besten.json"
   },
   {
+    "id": "p_tim_despic",
+    "name": "Tim Despic",
+    "birth_year": 1978,
+    "path": "data/people/p_tim_despic.json"
+  },
+  {
     "id": "p_tim_dillon",
     "name": "Tim Dillon",
     "birth_year": 1985,
@@ -21273,6 +21343,12 @@
     "name": "Tim McCann",
     "birth_year": 1968,
     "path": "data/people/p_tim_mccann.json"
+  },
+  {
+    "id": "p_tim_mccauley",
+    "name": "Tim McCauley",
+    "birth_year": 1959,
+    "path": "data/people/p_tim_mccauley.json"
   },
   {
     "id": "p_tim_mcgrath",
@@ -22643,6 +22719,12 @@
     "path": "data/people/p_timothy_radford.json"
   },
   {
+    "id": "p_timothy_rice",
+    "name": "Timothy Rice",
+    "birth_year": 1944,
+    "path": "data/people/p_timothy_rice.json"
+  },
+  {
     "id": "p_timothy_s_bennett",
     "name": "Timothy S. Bennett",
     "path": "data/people/p_timothy_s_bennett.json"
@@ -23592,6 +23674,11 @@
     "path": "data/people/p_tiphaine_haas.json"
   },
   {
+    "id": "p_tiphaine_sintes",
+    "name": "Tiphaine Sintes",
+    "path": "data/people/p_tiphaine_sintes.json"
+  },
+  {
     "id": "p_tipper_newton",
     "name": "Tipper Newton",
     "birth_year": 1986,
@@ -24106,6 +24193,12 @@
     "name": "TJ Cummings",
     "birth_year": 1980,
     "path": "data/people/p_tj_cummings.json"
+  },
+  {
+    "id": "p_tj_fixman",
+    "name": "T.J. Fixman",
+    "birth_year": 1979,
+    "path": "data/people/p_tj_fixman.json"
   },
   {
     "id": "p_tj_landry",
@@ -26580,6 +26673,12 @@
     "path": "data/people/p_tom_fletcher.json"
   },
   {
+    "id": "p_tom_flynn",
+    "name": "Tom Flynn",
+    "birth_year": 1955,
+    "path": "data/people/p_tom_flynn.json"
+  },
+  {
     "id": "p_tom_fontana",
     "name": "Tom Fontana",
     "birth_year": 1951,
@@ -27823,6 +27922,11 @@
     "path": "data/people/p_tom_shoval.json"
   },
   {
+    "id": "p_tom_simpson",
+    "name": "Tom Simpson",
+    "path": "data/people/p_tom_simpson.json"
+  },
+  {
     "id": "p_tom_sims",
     "name": "Tom Sims",
     "birth_year": 1950,
@@ -28812,6 +28916,11 @@
     "path": "data/people/p_tomas_klima.json"
   },
   {
+    "id": "p_tomas_klimek",
+    "name": "Tomáš Klímek",
+    "path": "data/people/p_tomas_klimek.json"
+  },
+  {
     "id": "p_tomas_klus",
     "name": "Tomáš Klus",
     "birth_year": 1986,
@@ -29041,6 +29150,12 @@
     "name": "Tomas Magnusson",
     "birth_year": 1976,
     "path": "data/people/p_tomas_magnusson.json"
+  },
+  {
+    "id": "p_tomas_marco",
+    "name": "Tomás Marco",
+    "birth_year": 1942,
+    "path": "data/people/p_tomas_marco.json"
   },
   {
     "id": "p_tomas_martinec",
@@ -30474,6 +30589,12 @@
     "name": "Tommy Dreamer",
     "birth_year": 1971,
     "path": "data/people/p_tommy_dreamer.json"
+  },
+  {
+    "id": "p_tommy_finke",
+    "name": "Tommy Finke",
+    "birth_year": 1981,
+    "path": "data/people/p_tommy_finke.json"
   },
   {
     "id": "p_tommy_flanagan",
@@ -32361,6 +32482,12 @@
     "path": "data/people/p_tony_ayres.json"
   },
   {
+    "id": "p_tony_bacon",
+    "name": "Tony Bacon",
+    "birth_year": 1953,
+    "path": "data/people/p_tony_bacon.json"
+  },
+  {
     "id": "p_tony_baez_milan",
     "name": "Tony Baez Milan",
     "path": "data/people/p_tony_baez_milan.json"
@@ -34138,6 +34265,12 @@
     "path": "data/people/p_toran_waibro.json"
   },
   {
+    "id": "p_toranosuke_aizawa",
+    "name": "Toranosuke Aizawa",
+    "birth_year": 1974,
+    "path": "data/people/p_toranosuke_aizawa.json"
+  },
+  {
     "id": "p_torben_bech",
     "name": "Torben Bech",
     "path": "data/people/p_torben_bech.json"
@@ -34855,6 +34988,12 @@
     "path": "data/people/p_tosh_zhang.json"
   },
   {
+    "id": "p_toshi_sabri",
+    "name": "Toshi Sabri",
+    "birth_year": 1984,
+    "path": "data/people/p_toshi_sabri.json"
+  },
+  {
     "id": "p_toshi_shioya",
     "name": "Toshi Shioya",
     "birth_year": 1956,
@@ -35238,6 +35377,11 @@
     "id": "p_tosin_igho",
     "name": "Tosin Igho",
     "path": "data/people/p_tosin_igho.json"
+  },
+  {
+    "id": "p_tosin_otudeko",
+    "name": "Tosin Otudeko",
+    "path": "data/people/p_tosin_otudeko.json"
   },
   {
     "id": "p_tosin_sanyalo",
@@ -36806,6 +36950,12 @@
     "name": "Trevor Griffiths",
     "birth_year": 1935,
     "path": "data/people/p_trevor_griffiths.json"
+  },
+  {
+    "id": "p_trevor_gureckis",
+    "name": "Trevor Gureckis",
+    "birth_year": 1999,
+    "path": "data/people/p_trevor_gureckis.json"
   },
   {
     "id": "p_trevor_hardy",
@@ -40521,6 +40671,11 @@
     "id": "p_tyler_spindel",
     "name": "Tyler Spindel",
     "path": "data/people/p_tyler_spindel.json"
+  },
+  {
+    "id": "p_tyler_strickland",
+    "name": "Tyler Strickland",
+    "path": "data/people/p_tyler_strickland.json"
   },
   {
     "id": "p_tyler_taormina",
