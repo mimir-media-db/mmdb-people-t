@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_epperson",
+  "name": "Tom Epperson",
+  "external_ids": {
+    "wikidata": "Q3530717",
+    "imdb": "nm0258370"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950
+}
