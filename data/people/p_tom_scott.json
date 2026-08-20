@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_scott",
+  "name": "Tom Scott",
+  "external_ids": {
+    "wikidata": "Q1651279",
+    "imdb": "nm0779860"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}
