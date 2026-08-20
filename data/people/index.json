@@ -9463,6 +9463,12 @@
     "path": "data/people/p_ted_scotto.json"
   },
   {
+    "id": "p_ted_sears",
+    "name": "Ted Sears",
+    "birth_year": 1900,
+    "path": "data/people/p_ted_sears.json"
+  },
+  {
     "id": "p_ted_shackelford",
     "name": "Ted Shackelford",
     "birth_year": 1946,
@@ -16586,6 +16592,12 @@
     "id": "p_thomas_debaene",
     "name": "Thomas Debaene",
     "path": "data/people/p_thomas_debaene.json"
+  },
+  {
+    "id": "p_thomas_degrezia",
+    "name": "Thomas DeGrezia",
+    "birth_year": 1982,
+    "path": "data/people/p_thomas_degrezia.json"
   },
   {
     "id": "p_thomas_dehler",
@@ -29211,6 +29223,11 @@
     "path": "data/people/p_tomas_bata.json"
   },
   {
+    "id": "p_tomas_belko",
+    "name": "Tomáš Belko",
+    "path": "data/people/p_tomas_belko.json"
+  },
+  {
     "id": "p_tomas_belohlavek",
     "name": "Tomáš Bělohlávek",
     "birth_year": 1963,
@@ -29304,6 +29321,12 @@
     "name": "Tomáš Chlud",
     "birth_year": 1976,
     "path": "data/people/p_tomas_chlud.json"
+  },
+  {
+    "id": "p_tomas_chvala",
+    "name": "Tomáš Chvála",
+    "birth_year": 1984,
+    "path": "data/people/p_tomas_chvala.json"
   },
   {
     "id": "p_tomas_cimadevilla",
@@ -41115,6 +41138,11 @@
     "path": "data/people/p_tuyet_thu.json"
   },
   {
+    "id": "p_tw_burgess",
+    "name": "T.W. Burgess",
+    "path": "data/people/p_tw_burgess.json"
+  },
+  {
     "id": "p_tw_pittman",
     "name": "T.W. Pittman",
     "path": "data/people/p_tw_pittman.json"
@@ -41284,6 +41312,12 @@
     "id": "p_ty_sanga",
     "name": "Ty Sanga",
     "path": "data/people/p_ty_sanga.json"
+  },
+  {
+    "id": "p_ty_segall",
+    "name": "Ty Segall",
+    "birth_year": 1987,
+    "path": "data/people/p_ty_segall.json"
   },
   {
     "id": "p_ty_simpkins",
