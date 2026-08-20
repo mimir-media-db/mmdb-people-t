@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_anderson",
+  "name": "Tim Anderson",
+  "external_ids": {
+    "wikidata": "Q20630500",
+    "imdb": "nm3294410"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}

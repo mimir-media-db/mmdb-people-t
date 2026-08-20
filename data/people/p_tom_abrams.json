@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_abrams",
+  "name": "Tom Abrams",
+  "external_ids": {
+    "wikidata": "Q16149013",
+    "imdb": "nm0009248"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
