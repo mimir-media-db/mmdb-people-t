@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_russell",
+  "name": "Tom Russell",
+  "external_ids": {
+    "wikidata": "Q1345526",
+    "imdb": "nm1470964"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1953
+}
