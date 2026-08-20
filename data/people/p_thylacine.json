@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thylacine",
+  "name": "Thylacine",
+  "external_ids": {
+    "wikidata": "Q59205384",
+    "imdb": "nm4681446"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1992
+}
