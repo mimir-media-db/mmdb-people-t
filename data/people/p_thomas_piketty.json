@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_piketty",
+  "name": "Thomas Piketty",
+  "external_ids": {
+    "wikidata": "Q984448",
+    "imdb": "nm3843888"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
