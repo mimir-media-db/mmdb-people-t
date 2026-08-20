@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_morse",
+  "name": "Thomas Morse",
+  "external_ids": {
+    "wikidata": "Q62140866",
+    "imdb": "nm0006929"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1968
+}
