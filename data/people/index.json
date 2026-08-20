@@ -880,6 +880,12 @@
     "path": "data/people/p_taeyun_kim.json"
   },
   {
+    "id": "p_tafo_khan",
+    "name": "Tafo Khan",
+    "birth_year": 1944,
+    "path": "data/people/p_tafo_khan.json"
+  },
+  {
     "id": "p_tag_purvis",
     "name": "Tag Purvis",
     "path": "data/people/p_tag_purvis.json"
@@ -1030,6 +1036,11 @@
     "name": "Tai Chih-yuan",
     "birth_year": 1965,
     "path": "data/people/p_tai_chihyuan.json"
+  },
+  {
+    "id": "p_tai_emeka_obasi",
+    "name": "Tai Emeka Obasi",
+    "path": "data/people/p_tai_emeka_obasi.json"
   },
   {
     "id": "p_tai_ling",
@@ -3897,6 +3908,12 @@
     "path": "data/people/p_tamas_meszaros.json"
   },
   {
+    "id": "p_tamas_mihaly",
+    "name": "Tamás Mihály",
+    "birth_year": 1947,
+    "path": "data/people/p_tamas_mihaly.json"
+  },
+  {
     "id": "p_tamas_mohai",
     "name": "Tamás Mohai",
     "birth_year": 1988,
@@ -6719,6 +6736,12 @@
     "path": "data/people/p_tarra_white.json"
   },
   {
+    "id": "p_tarsame_singh_saini",
+    "name": "Tarsame Singh Saini",
+    "birth_year": 1967,
+    "path": "data/people/p_tarsame_singh_saini.json"
+  },
+  {
     "id": "p_tarsem_jassar",
     "name": "Tarsem Jassar",
     "birth_year": 1986,
@@ -9010,6 +9033,12 @@
     "name": "Ted Sieger",
     "birth_year": 1958,
     "path": "data/people/p_ted_sieger.json"
+  },
+  {
+    "id": "p_ted_strom",
+    "name": "Ted Ström",
+    "birth_year": 1944,
+    "path": "data/people/p_ted_strom.json"
   },
   {
     "id": "p_ted_sutherland",
@@ -12791,6 +12820,12 @@
     "path": "data/people/p_thais_vauquieres.json"
   },
   {
+    "id": "p_thakazhi_sivasankara_pillai",
+    "name": "Thakazhi Sivasankara Pillai",
+    "birth_year": 1913,
+    "path": "data/people/p_thakazhi_sivasankara_pillai.json"
+  },
+  {
     "id": "p_thakkali_srinivasan",
     "name": "Thakkali Srinivasan",
     "birth_year": 1952,
@@ -14875,6 +14910,11 @@
     "path": "data/people/p_thierry_trelluyer.json"
   },
   {
+    "id": "p_thierry_van_osselt",
+    "name": "Thierry van Osselt",
+    "path": "data/people/p_thierry_van_osselt.json"
+  },
+  {
     "id": "p_thierry_van_werveke",
     "name": "Thierry Van Werveke",
     "birth_year": 1958,
@@ -14885,6 +14925,12 @@
     "name": "Thierry Villeneuve",
     "birth_year": 1967,
     "path": "data/people/p_thierry_villeneuve.json"
+  },
+  {
+    "id": "p_thies_mynther",
+    "name": "Thies Mynther",
+    "birth_year": 1968,
+    "path": "data/people/p_thies_mynther.json"
   },
   {
     "id": "p_thijmen_jacobs",
@@ -16917,6 +16963,12 @@
     "path": "data/people/p_thomas_mcnaught.json"
   },
   {
+    "id": "p_thomas_meehan",
+    "name": "Thomas Meehan",
+    "birth_year": 1929,
+    "path": "data/people/p_thomas_meehan.json"
+  },
+  {
     "id": "p_thomas_mehlhorn",
     "name": "Thomas Mehlhorn",
     "birth_year": 1968,
@@ -17480,6 +17532,12 @@
     "name": "Thomas Schmauser",
     "birth_year": 1972,
     "path": "data/people/p_thomas_schmauser.json"
+  },
+  {
+    "id": "p_thomas_schmid",
+    "name": "Thomas Schmid",
+    "birth_year": 1959,
+    "path": "data/people/p_thomas_schmid.json"
   },
   {
     "id": "p_thomas_schmieder",
@@ -18239,6 +18297,12 @@
     "name": "Thorsten Wolf",
     "birth_year": 1965,
     "path": "data/people/p_thorsten_wolf.json"
+  },
+  {
+    "id": "p_thotakura_venkata_raju",
+    "name": "Thotakura Venkata Raju",
+    "birth_year": 1920,
+    "path": "data/people/p_thotakura_venkata_raju.json"
   },
   {
     "id": "p_threes_anna",
@@ -19947,6 +20011,12 @@
     "path": "data/people/p_tim_barlow.json"
   },
   {
+    "id": "p_tim_barrow",
+    "name": "Tim Barrow",
+    "birth_year": 1964,
+    "path": "data/people/p_tim_barrow.json"
+  },
+  {
     "id": "p_tim_bary",
     "name": "Tim Bary",
     "path": "data/people/p_tim_bary.json"
@@ -21494,6 +21564,12 @@
     "path": "data/people/p_timo_berndt.json"
   },
   {
+    "id": "p_timo_blunck",
+    "name": "Timo Blunck",
+    "birth_year": 1962,
+    "path": "data/people/p_timo_blunck.json"
+  },
+  {
     "id": "p_timo_descamps",
     "name": "Timo Descamps",
     "birth_year": 1986,
@@ -21644,6 +21720,12 @@
     "name": "Timo Schierhorn",
     "birth_year": 1978,
     "path": "data/people/p_timo_schierhorn.json"
+  },
+  {
+    "id": "p_timo_steiner",
+    "name": "Timo Steiner",
+    "birth_year": 1976,
+    "path": "data/people/p_timo_steiner.json"
   },
   {
     "id": "p_timo_tjahjanto",
@@ -23111,6 +23193,12 @@
     "name": "Tisha Campbell",
     "birth_year": 1968,
     "path": "data/people/p_tisha_campbell.json"
+  },
+  {
+    "id": "p_tissa_abeysekara",
+    "name": "Tissa Abeysekara",
+    "birth_year": 1939,
+    "path": "data/people/p_tissa_abeysekara.json"
   },
   {
     "id": "p_tissa_biani",
@@ -24928,6 +25016,12 @@
     "name": "Todor Chapkanov",
     "birth_year": 1977,
     "path": "data/people/p_todor_chapkanov.json"
+  },
+  {
+    "id": "p_todor_kobakov",
+    "name": "Todor Kobakov",
+    "birth_year": 1978,
+    "path": "data/people/p_todor_kobakov.json"
   },
   {
     "id": "p_todor_kolev",
@@ -27208,6 +27302,12 @@
     "path": "data/people/p_tom_stourton.json"
   },
   {
+    "id": "p_tom_streuber",
+    "name": "Tom Streuber",
+    "birth_year": 1975,
+    "path": "data/people/p_tom_streuber.json"
+  },
+  {
     "id": "p_tom_stuart",
     "name": "Tom Stuart",
     "path": "data/people/p_tom_stuart.json"
@@ -27422,6 +27522,12 @@
     "name": "Tom Werner",
     "birth_year": 1950,
     "path": "data/people/p_tom_werner.json"
+  },
+  {
+    "id": "p_tom_whalen",
+    "name": "Tom Whalen",
+    "birth_year": 1948,
+    "path": "data/people/p_tom_whalen.json"
   },
   {
     "id": "p_tom_wheatley",
@@ -29841,6 +29947,12 @@
     "path": "data/people/p_tommy_ipsen.json"
   },
   {
+    "id": "p_tommy_jaud",
+    "name": "Tommy Jaud",
+    "birth_year": 1970,
+    "path": "data/people/p_tommy_jaud.json"
+  },
+  {
     "id": "p_tommy_jay",
     "name": "Tommy Jay",
     "path": "data/people/p_tommy_jay.json"
@@ -31308,6 +31420,12 @@
     "name": "Tõnis Kolga",
     "birth_year": 1952,
     "path": "data/people/p_tonis_kolga.json"
+  },
+  {
+    "id": "p_tonis_leemets",
+    "name": "Tõnis Leemets",
+    "birth_year": 1972,
+    "path": "data/people/p_tonis_leemets.json"
   },
   {
     "id": "p_tonis_leht",
@@ -34636,6 +34754,12 @@
     "path": "data/people/p_towa_araki.json"
   },
   {
+    "id": "p_towa_tei",
+    "name": "Towa Tei",
+    "birth_year": 1964,
+    "path": "data/people/p_towa_tei.json"
+  },
+  {
     "id": "p_townes_van_zandt",
     "name": "Townes Van Zandt",
     "birth_year": 1944,
@@ -36870,6 +36994,11 @@
     "name": "Tristin Mays",
     "birth_year": 1990,
     "path": "data/people/p_tristin_mays.json"
+  },
+  {
+    "id": "p_tristin_norwell",
+    "name": "Tristin Norwell",
+    "path": "data/people/p_tristin_norwell.json"
   },
   {
     "id": "p_tristine_skyler",
@@ -39187,6 +39316,12 @@
     "name": "Tya Subiakto",
     "birth_year": 1979,
     "path": "data/people/p_tya_subiakto.json"
+  },
+  {
+    "id": "p_tyagraj_khadilkar",
+    "name": "Tyagraj Khadilkar",
+    "birth_year": 1967,
+    "path": "data/people/p_tyagraj_khadilkar.json"
   },
   {
     "id": "p_tyallah_bullock",
