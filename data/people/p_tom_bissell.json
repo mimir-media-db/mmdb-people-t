@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bissell",
+  "name": "Tom Bissell",
+  "external_ids": {
+    "wikidata": "Q955912",
+    "imdb": "nm2661978"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
