@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_torsten_sense",
+  "name": "Torsten Sense",
+  "external_ids": {
+    "wikidata": "Q2444987",
+    "imdb": "nm0784472"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_jones",
+  "name": "Tim Jones",
+  "external_ids": {
+    "wikidata": "Q2434094",
+    "imdb": "nm0429350"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
