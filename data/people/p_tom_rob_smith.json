@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_rob_smith",
+  "name": "Tom Rob Smith",
+  "external_ids": {
+    "wikidata": "Q1334536",
+    "imdb": "nm1602547"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}
