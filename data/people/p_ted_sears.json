@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_sears",
+  "name": "Ted Sears",
+  "external_ids": {
+    "wikidata": "Q3517047",
+    "imdb": "nm0780799"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1900,
+  "death_year": 1958
+}
