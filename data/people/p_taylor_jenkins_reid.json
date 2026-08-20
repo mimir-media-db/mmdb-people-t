@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_taylor_jenkins_reid",
+  "name": "Taylor Jenkins Reid",
+  "external_ids": {
+    "wikidata": "Q50568231",
+    "imdb": "nm6631322"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1983
+}
