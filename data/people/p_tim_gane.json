@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tim_gane",
+  "name": "Tim Gane",
+  "external_ids": {
+    "wikidata": "Q7803537",
+    "imdb": "nm2702850"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}

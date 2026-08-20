@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_newman",
+  "name": "Thomas Newman",
+  "external_ids": {
+    "wikidata": "Q319996",
+    "imdb": "nm0002353"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_theo_green",
+  "name": "Theo Green",
+  "external_ids": {
+    "wikidata": "Q7781455",
+    "imdb": "nm1640468"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
