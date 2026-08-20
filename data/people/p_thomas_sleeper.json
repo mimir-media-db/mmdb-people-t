@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_sleeper",
+  "name": "Thomas Sleeper",
+  "external_ids": {
+    "wikidata": "Q7794011"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956,
+  "death_year": 2021
+}
