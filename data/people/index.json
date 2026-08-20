@@ -2404,6 +2404,12 @@
     "path": "data/people/p_takeshi_natsuno.json"
   },
   {
+    "id": "p_takeshi_obata",
+    "name": "Takeshi Obata",
+    "birth_year": 1969,
+    "path": "data/people/p_takeshi_obata.json"
+  },
+  {
     "id": "p_takeshi_shiba",
     "name": "Takeshi Shiba",
     "birth_year": 1962,
@@ -4212,6 +4218,12 @@
     "id": "p_tamir_elterman",
     "name": "Tamir Elterman",
     "path": "data/people/p_tamir_elterman.json"
+  },
+  {
+    "id": "p_tamir_muskat",
+    "name": "Tamir Muskat",
+    "birth_year": 1971,
+    "path": "data/people/p_tamir_muskat.json"
   },
   {
     "id": "p_tamiya_terashima",
@@ -6906,6 +6918,12 @@
     "path": "data/people/p_tashi_bullman.json"
   },
   {
+    "id": "p_tashi_dawa",
+    "name": "Tashi Dawa",
+    "birth_year": 1958,
+    "path": "data/people/p_tashi_dawa.json"
+  },
+  {
     "id": "p_tashi_gyeltshen",
     "name": "Tashi Gyeltshen",
     "birth_year": 1971,
@@ -8100,6 +8118,12 @@
     "name": "Taylor Cole",
     "birth_year": 1984,
     "path": "data/people/p_taylor_cole.json"
+  },
+  {
+    "id": "p_taylor_dayne",
+    "name": "Taylor Dayne",
+    "birth_year": 1962,
+    "path": "data/people/p_taylor_dayne.json"
   },
   {
     "id": "p_taylor_dooley",
@@ -13970,6 +13994,12 @@
     "path": "data/people/p_theodore_ushev.json"
   },
   {
+    "id": "p_theodosii_spassov",
+    "name": "Theodosii Spassov",
+    "birth_year": 1961,
+    "path": "data/people/p_theodosii_spassov.json"
+  },
+  {
     "id": "p_theodule_carrecassaigne",
     "name": "Théodule Carré-Cassaigne",
     "birth_year": 1990,
@@ -14025,6 +14055,11 @@
     "name": "Theresa Berlage",
     "birth_year": 1968,
     "path": "data/people/p_theresa_berlage.json"
+  },
+  {
+    "id": "p_theresa_bodon",
+    "name": "Theresa Bodon",
+    "path": "data/people/p_theresa_bodon.json"
   },
   {
     "id": "p_theresa_demarest",
@@ -15251,6 +15286,12 @@
     "name": "Thomas Batuello",
     "birth_year": 1994,
     "path": "data/people/p_thomas_batuello.json"
+  },
+  {
+    "id": "p_thomas_baum",
+    "name": "Thomas Baum",
+    "birth_year": 1958,
+    "path": "data/people/p_thomas_baum.json"
   },
   {
     "id": "p_thomas_beatty",
@@ -16541,6 +16582,12 @@
     "path": "data/people/p_thomas_kim_hoder.json"
   },
   {
+    "id": "p_thomas_kirchner",
+    "name": "Thomas Kirchner",
+    "birth_year": 1960,
+    "path": "data/people/p_thomas_kirchner.json"
+  },
+  {
     "id": "p_thomas_knak",
     "name": "Thomas Knak",
     "birth_year": 1973,
@@ -17187,6 +17234,12 @@
     "path": "data/people/p_thomas_raggi.json"
   },
   {
+    "id": "p_thomas_ramdhan",
+    "name": "Thomas Ramdhan",
+    "birth_year": 1967,
+    "path": "data/people/p_thomas_ramdhan.json"
+  },
+  {
     "id": "p_thomas_ravn",
     "name": "Thomas Ravn",
     "birth_year": 1964,
@@ -17478,6 +17531,12 @@
     "id": "p_thomas_seban",
     "name": "Thomas Seban",
     "path": "data/people/p_thomas_seban.json"
+  },
+  {
+    "id": "p_thomas_seeberg_torjussen",
+    "name": "Thomas Seeberg Torjussen",
+    "birth_year": 1974,
+    "path": "data/people/p_thomas_seeberg_torjussen.json"
   },
   {
     "id": "p_thomas_seraphine",
@@ -18535,6 +18594,11 @@
     "path": "data/people/p_tian_han.json"
   },
   {
+    "id": "p_tian_koileong",
+    "name": "Tian Koi-Leong",
+    "path": "data/people/p_tian_koileong.json"
+  },
+  {
     "id": "p_tian_liang",
     "name": "Tian Liang",
     "birth_year": 1979,
@@ -19425,6 +19489,12 @@
     "name": "Tike Priatnakusumah",
     "birth_year": 1977,
     "path": "data/people/p_tike_priatnakusumah.json"
+  },
+  {
+    "id": "p_tiken_jah_fakoly",
+    "name": "Tiken Jah Fakoly",
+    "birth_year": 1968,
+    "path": "data/people/p_tiken_jah_fakoly.json"
   },
   {
     "id": "p_tikhon_kornev",
@@ -22573,6 +22643,12 @@
     "path": "data/people/p_tina_wiseman.json"
   },
   {
+    "id": "p_tinadesiree_berg",
+    "name": "Tina-Desiree Berg",
+    "birth_year": 1970,
+    "path": "data/people/p_tinadesiree_berg.json"
+  },
+  {
     "id": "p_tinarie_van_wykloots",
     "name": "Tinarie Van Wyk-Loots",
     "birth_year": 1980,
@@ -24685,6 +24761,12 @@
     "path": "data/people/p_todd_rohal.json"
   },
   {
+    "id": "p_todd_rundgren",
+    "name": "Todd Rundgren",
+    "birth_year": 1948,
+    "path": "data/people/p_todd_rundgren.json"
+  },
+  {
     "id": "p_todd_sampson",
     "name": "Todd Sampson",
     "birth_year": 1969,
@@ -25200,6 +25282,12 @@
     "name": "Tom Arnold",
     "birth_year": 1959,
     "path": "data/people/p_tom_arnold.json"
+  },
+  {
+    "id": "p_tom_astle",
+    "name": "Tom Astle",
+    "birth_year": 1960,
+    "path": "data/people/p_tom_astle.json"
   },
   {
     "id": "p_tom_astor",
@@ -26282,6 +26370,12 @@
     "path": "data/people/p_tom_kenny.json"
   },
   {
+    "id": "p_tom_kestens",
+    "name": "Tom Kestens",
+    "birth_year": 1974,
+    "path": "data/people/p_tom_kestens.json"
+  },
+  {
     "id": "p_tom_keune",
     "name": "Tom Keune",
     "birth_year": 1975,
@@ -26755,6 +26849,12 @@
     "id": "p_tom_peosay",
     "name": "Tom Peosay",
     "path": "data/people/p_tom_peosay.json"
+  },
+  {
+    "id": "p_tom_perrotta",
+    "name": "Tom Perrotta",
+    "birth_year": 1961,
+    "path": "data/people/p_tom_perrotta.json"
   },
   {
     "id": "p_tom_petaja",
@@ -27345,6 +27445,12 @@
     "path": "data/people/p_tom_wilkinson.json"
   },
   {
+    "id": "p_tom_willett",
+    "name": "Tom Willett",
+    "birth_year": 1937,
+    "path": "data/people/p_tom_willett.json"
+  },
+  {
     "id": "p_tom_wisdom",
     "name": "Tom Wisdom",
     "birth_year": 1973,
@@ -27867,6 +27973,12 @@
     "path": "data/people/p_tomas_hoffman.json"
   },
   {
+    "id": "p_tomas_holecek",
+    "name": "Tomáš Holeček",
+    "birth_year": 1979,
+    "path": "data/people/p_tomas_holecek.json"
+  },
+  {
     "id": "p_tomas_holy",
     "name": "Tomáš Holý",
     "birth_year": 1985,
@@ -28124,6 +28236,12 @@
     "name": "Tomas Kurth",
     "birth_year": 1955,
     "path": "data/people/p_tomas_kurth.json"
+  },
+  {
+    "id": "p_tomas_kympl",
+    "name": "Tomas Kympl",
+    "birth_year": 1975,
+    "path": "data/people/p_tomas_kympl.json"
   },
   {
     "id": "p_tomas_kyndl",
@@ -29378,6 +29496,12 @@
     "path": "data/people/p_tommaso_agnese.json"
   },
   {
+    "id": "p_tommaso_avati",
+    "name": "Tommaso Avati",
+    "birth_year": 1969,
+    "path": "data/people/p_tommaso_avati.json"
+  },
+  {
     "id": "p_tommaso_bianco",
     "name": "Tommaso Bianco",
     "birth_year": 1943,
@@ -29394,6 +29518,12 @@
     "name": "Tommaso Cassissa",
     "birth_year": 2000,
     "path": "data/people/p_tommaso_cassissa.json"
+  },
+  {
+    "id": "p_tommaso_leddi",
+    "name": "Tommaso Leddi",
+    "birth_year": 1954,
+    "path": "data/people/p_tommaso_leddi.json"
   },
   {
     "id": "p_tommaso_mottola",
@@ -32744,6 +32874,12 @@
     "id": "p_tony_vidal",
     "name": "Tony Vidal",
     "path": "data/people/p_tony_vidal.json"
+  },
+  {
+    "id": "p_tony_vilar",
+    "name": "Tony Vilar",
+    "birth_year": 1938,
+    "path": "data/people/p_tony_vilar.json"
   },
   {
     "id": "p_tony_villalobos",
@@ -37590,6 +37726,12 @@
     "path": "data/people/p_tsivia_barkai_yacov.json"
   },
   {
+    "id": "p_tsoof_philosof",
+    "name": "Tsoof Philosof",
+    "birth_year": 1958,
+    "path": "data/people/p_tsoof_philosof.json"
+  },
+  {
     "id": "p_tsr_srinivasan",
     "name": "TSR Srinivasan",
     "path": "data/people/p_tsr_srinivasan.json"
@@ -37675,6 +37817,12 @@
     "id": "p_tsugumi_kitaura",
     "name": "Tsugumi Kitaura",
     "path": "data/people/p_tsugumi_kitaura.json"
+  },
+  {
+    "id": "p_tsugumi_ohba",
+    "name": "Tsugumi Ohba",
+    "birth_year": 1949,
+    "path": "data/people/p_tsugumi_ohba.json"
   },
   {
     "id": "p_tsui_hark",
