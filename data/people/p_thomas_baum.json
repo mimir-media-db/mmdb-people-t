@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_thomas_baum",
+  "name": "Thomas Baum",
+  "external_ids": {
+    "wikidata": "Q2422283",
+    "imdb": "nm0062137"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}
