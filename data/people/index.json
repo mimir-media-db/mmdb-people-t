@@ -563,6 +563,12 @@
     "path": "data/people/p_tadanobu_asano.json"
   },
   {
+    "id": "p_tadao_ikeda",
+    "name": "Tadao Ikeda",
+    "birth_year": 1905,
+    "path": "data/people/p_tadao_ikeda.json"
+  },
+  {
     "id": "p_tadas_vidmantas",
     "name": "Tadas Vidmantas",
     "birth_year": 1985,
@@ -3886,6 +3892,12 @@
     "name": "Tamás Andor",
     "birth_year": 1937,
     "path": "data/people/p_tamas_andor.json"
+  },
+  {
+    "id": "p_tamas_bolba",
+    "name": "Tamás Bolba",
+    "birth_year": 1971,
+    "path": "data/people/p_tamas_bolba.json"
   },
   {
     "id": "p_tamas_borovics",
@@ -7238,6 +7250,12 @@
     "path": "data/people/p_tata_milouda.json"
   },
   {
+    "id": "p_tata_simonyan",
+    "name": "Tata Simonyan",
+    "birth_year": 1962,
+    "path": "data/people/p_tata_simonyan.json"
+  },
+  {
     "id": "p_tata_sivek",
     "name": "Tata Sivek",
     "birth_year": 1988,
@@ -7323,6 +7341,12 @@
     "id": "p_tati_amie",
     "name": "Tati Amie",
     "path": "data/people/p_tati_amie.json"
+  },
+  {
+    "id": "p_tati_bernardi",
+    "name": "Tati Bernardi",
+    "birth_year": 1979,
+    "path": "data/people/p_tati_bernardi.json"
   },
   {
     "id": "p_tati_gabrielle",
@@ -13652,6 +13676,12 @@
     "path": "data/people/p_the_narcicyst.json"
   },
   {
+    "id": "p_the_niro",
+    "name": "The Niro",
+    "birth_year": 1978,
+    "path": "data/people/p_the_niro.json"
+  },
+  {
     "id": "p_the_pocket_queen",
     "name": "The Pocket Queen",
     "birth_year": 1990,
@@ -15330,6 +15360,12 @@
     "name": "Thodupuzha Vasanthi",
     "birth_year": 1951,
     "path": "data/people/p_thodupuzha_vasanthi.json"
+  },
+  {
+    "id": "p_thoersi_argeswara",
+    "name": "Thoersi Argeswara",
+    "birth_year": 1966,
+    "path": "data/people/p_thoersi_argeswara.json"
   },
   {
     "id": "p_thol_thirumavalavan",
@@ -18264,6 +18300,12 @@
     "path": "data/people/p_thomas_winkel_ravn.json"
   },
   {
+    "id": "p_thomas_winkler",
+    "name": "Thomas Winkler",
+    "birth_year": 1971,
+    "path": "data/people/p_thomas_winkler.json"
+  },
+  {
     "id": "p_thomas_winston",
     "name": "Thomas Winston",
     "path": "data/people/p_thomas_winston.json"
@@ -19017,6 +19059,11 @@
     "name": "Tian Yuan",
     "birth_year": 1985,
     "path": "data/people/p_tian_yuan.json"
+  },
+  {
+    "id": "p_tian_yunzhang",
+    "name": "Tian Yunzhang",
+    "path": "data/people/p_tian_yunzhang.json"
   },
   {
     "id": "p_tian_zhenda",
@@ -20860,6 +20907,11 @@
     "path": "data/people/p_tim_heidecker.json"
   },
   {
+    "id": "p_tim_heintz",
+    "name": "Tim Heintz",
+    "path": "data/people/p_tim_heintz.json"
+  },
+  {
     "id": "p_tim_herlihy",
     "name": "Tim Herlihy",
     "birth_year": 1966,
@@ -20927,6 +20979,12 @@
     "id": "p_tim_irwin",
     "name": "Tim Irwin",
     "path": "data/people/p_tim_irwin.json"
+  },
+  {
+    "id": "p_tim_james",
+    "name": "Tim James",
+    "birth_year": 1987,
+    "path": "data/people/p_tim_james.json"
   },
   {
     "id": "p_tim_janis",
@@ -23248,6 +23306,12 @@
     "name": "Ting-Ruei Syu",
     "birth_year": 1990,
     "path": "data/people/p_tingruei_syu.json"
+  },
+  {
+    "id": "p_tingsek",
+    "name": "Tingsek",
+    "birth_year": 1978,
+    "path": "data/people/p_tingsek.json"
   },
   {
     "id": "p_tingting_hu",
@@ -30821,6 +30885,12 @@
     "path": "data/people/p_tomohiro_ichikawa.json"
   },
   {
+    "id": "p_tomohiro_kaku",
+    "name": "Tomohiro Kaku",
+    "birth_year": 1984,
+    "path": "data/people/p_tomohiro_kaku.json"
+  },
+  {
     "id": "p_tomohiro_kubo",
     "name": "Tomohiro Kubo",
     "birth_year": 1989,
@@ -32519,6 +32589,11 @@
     "name": "Tony Dimitriou",
     "birth_year": 1969,
     "path": "data/people/p_tony_dimitriou.json"
+  },
+  {
+    "id": "p_tony_doogan",
+    "name": "Tony Doogan",
+    "path": "data/people/p_tony_doogan.json"
   },
   {
     "id": "p_tony_dovolani",
@@ -35076,6 +35151,12 @@
     "name": "Tota Roy Chowdhury",
     "birth_year": 1976,
     "path": "data/people/p_tota_roy_chowdhury.json"
+  },
+  {
+    "id": "p_toti_soler",
+    "name": "Toti Soler",
+    "birth_year": 1949,
+    "path": "data/people/p_toti_soler.json"
   },
   {
     "id": "p_totia_meireles",
@@ -39667,6 +39748,12 @@
     "name": "Tuukka Vasama",
     "birth_year": 1977,
     "path": "data/people/p_tuukka_vasama.json"
+  },
+  {
+    "id": "p_tuuli_kuittinen",
+    "name": "Tuuli Kuittinen",
+    "birth_year": 1964,
+    "path": "data/people/p_tuuli_kuittinen.json"
   },
   {
     "id": "p_tuuli_roosma",
