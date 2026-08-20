@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_the_niro",
+  "name": "The Niro",
+  "external_ids": {
+    "wikidata": "Q3988506",
+    "imdb": "nm4669305"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}
