@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_terence_rattigan",
+  "name": "Terence Rattigan",
+  "external_ids": {
+    "wikidata": "Q544627",
+    "imdb": "nm0711905"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1911,
+  "death_year": 1977
+}

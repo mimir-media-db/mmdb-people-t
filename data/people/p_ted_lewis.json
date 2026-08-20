@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ted_lewis",
+  "name": "Ted Lewis",
+  "external_ids": {
+    "wikidata": "Q3517037",
+    "imdb": "nm0507794"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940,
+  "death_year": 1982
+}
