@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_taras_shevchenko",
+  "name": "Taras Shevchenko",
+  "external_ids": {
+    "wikidata": "Q134958",
+    "imdb": "nm0786227"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1814,
+  "death_year": 1861
+}
