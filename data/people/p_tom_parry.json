@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_parry",
+  "name": "Tom Parry",
+  "external_ids": {
+    "wikidata": "Q21064096",
+    "imdb": "nm2758295"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}

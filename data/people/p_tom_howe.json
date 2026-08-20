@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_howe",
+  "name": "Tom Howe",
+  "external_ids": {
+    "wikidata": "Q97171478",
+    "imdb": "nm1995968"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
