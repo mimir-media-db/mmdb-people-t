@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_tom_bradby",
+  "name": "Tom Bradby",
+  "external_ids": {
+    "wikidata": "Q7815030",
+    "imdb": "nm1687155"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}
