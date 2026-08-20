@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_tennessee_williams",
+  "name": "Tennessee Williams",
+  "external_ids": {
+    "wikidata": "Q134262",
+    "imdb": "nm0931783"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1911,
+  "death_year": 1983
+}
